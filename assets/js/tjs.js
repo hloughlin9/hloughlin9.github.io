@@ -4,7 +4,7 @@ function myFunction2(){
 
     let time = d.toString();
 
-    document.getElementById("headerToChange").innerHTML = "New header with time! " + time;
+    document.getElementById("dateField").innerHTML = "New header with time! " + time;
 }
 
 
