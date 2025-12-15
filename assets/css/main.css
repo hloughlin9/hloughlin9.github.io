@@ -2438,8 +2438,17 @@ input, select, textarea {
 					border-left: 0;
 				}
 
-					#copyright li:first-child {
-						margin-top: 0;
-					}
+				#copyright li:first-child {
+					margin-top: 0;
+				}
 
+	}
+
+/* Work section left alignment */
+	#work header {
+		text-align: center;
+	}
+
+	#work header div > p {
+		text-align: left;
 	}
